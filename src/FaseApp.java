@@ -8,7 +8,6 @@ Mostra per consola el nom de les 6 ciutats.
  */
 
 
-
 import java.util.Scanner;
 
 public class FaseApp {
